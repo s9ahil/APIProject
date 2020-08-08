@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="4878" started-at="2020-08-07T18:33:47Z" finished-at="2020-08-07T18:33:52Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="4878" started-at="2020-08-07T18:33:47Z" finished-at="2020-08-07T18:33:52Z">
+      <class name="org.testing.TestScripts.PostRequestTC">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.TestScripts.PostRequestTC@28feb3fa]" name="tc1" duration-ms="4535" started-at="2020-08-08T00:03:47Z" finished-at="2020-08-08T00:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+      </class> <!-- org.testing.TestScripts.PostRequestTC -->
+      <class name="org.testing.TestScripts.GetRequestWithQueryparameter">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testing.TestScripts.GetRequestWithQueryparameter@1593948d]" name="tc3" duration-ms="89" started-at="2020-08-08T00:03:52Z" finished-at="2020-08-08T00:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc3 -->
+      </class> <!-- org.testing.TestScripts.GetRequestWithQueryparameter -->
+      <class name="org.testing.TestScripts.DeleteRequestTC">
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.testing.TestScripts.DeleteRequestTC@7823a2f9]" name="tc5" duration-ms="42" started-at="2020-08-08T00:03:52Z" finished-at="2020-08-08T00:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+      </class> <!-- org.testing.TestScripts.DeleteRequestTC -->
+      <class name="org.testing.TestScripts.PutRequestTC4">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testing.TestScripts.PutRequestTC4@1b604f19]" name="tc4" duration-ms="52" started-at="2020-08-08T00:03:52Z" finished-at="2020-08-08T00:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+      </class> <!-- org.testing.TestScripts.PutRequestTC4 -->
+      <class name="org.testing.TestScripts.GetRequestTC">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testing.TestScripts.GetRequestTC@482f8f11]" name="tc2" duration-ms="67" started-at="2020-08-08T00:03:52Z" finished-at="2020-08-08T00:03:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.testing.TestScripts.GetRequestTC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
