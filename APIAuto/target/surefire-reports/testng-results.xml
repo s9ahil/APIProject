@@ -2,40 +2,40 @@
 <testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="4070" started-at="2020-08-07T18:35:54Z" finished-at="2020-08-07T18:35:58Z">
+  <suite name="Suite" duration-ms="7428" started-at="2020-08-08T09:53:13Z" finished-at="2020-08-08T09:53:20Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="4070" started-at="2020-08-07T18:35:54Z" finished-at="2020-08-07T18:35:58Z">
+    <test name="Test" duration-ms="7428" started-at="2020-08-08T09:53:13Z" finished-at="2020-08-08T09:53:20Z">
       <class name="org.testing.TestScripts.PostRequestTC">
-        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.TestScripts.PostRequestTC@735f7ae5]" name="tc1" duration-ms="3723" started-at="2020-08-08T00:05:54Z" finished-at="2020-08-08T00:05:58Z">
+        <test-method status="PASS" signature="tc1()[pri:0, instance:org.testing.TestScripts.PostRequestTC@783e6358]" name="tc1" duration-ms="6934" started-at="2020-08-08T15:23:13Z" finished-at="2020-08-08T15:23:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc1 -->
       </class> <!-- org.testing.TestScripts.PostRequestTC -->
       <class name="org.testing.TestScripts.GetRequestWithQueryparameter">
-        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testing.TestScripts.GetRequestWithQueryparameter@246ae04d]" name="tc3" duration-ms="89" started-at="2020-08-08T00:05:58Z" finished-at="2020-08-08T00:05:58Z">
+        <test-method status="PASS" signature="tc3()[pri:0, instance:org.testing.TestScripts.GetRequestWithQueryparameter@1324409e]" name="tc3" duration-ms="100" started-at="2020-08-08T15:23:20Z" finished-at="2020-08-08T15:23:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc3 -->
       </class> <!-- org.testing.TestScripts.GetRequestWithQueryparameter -->
       <class name="org.testing.TestScripts.DeleteRequestTC">
-        <test-method status="PASS" signature="tc5()[pri:0, instance:org.testing.TestScripts.DeleteRequestTC@5315b42e]" name="tc5" duration-ms="32" started-at="2020-08-08T00:05:58Z" finished-at="2020-08-08T00:05:58Z">
+        <test-method status="PASS" signature="tc5()[pri:0, instance:org.testing.TestScripts.DeleteRequestTC@246ae04d]" name="tc5" duration-ms="59" started-at="2020-08-08T15:23:20Z" finished-at="2020-08-08T15:23:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc5 -->
       </class> <!-- org.testing.TestScripts.DeleteRequestTC -->
-      <class name="org.testing.TestScripts.GetRequestTC">
-        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testing.TestScripts.GetRequestTC@2c6a3f77]" name="tc2" duration-ms="84" started-at="2020-08-08T00:05:58Z" finished-at="2020-08-08T00:05:58Z">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- tc2 -->
-      </class> <!-- org.testing.TestScripts.GetRequestTC -->
       <class name="org.testing.TestScripts.PutRequestTC4">
-        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testing.TestScripts.PutRequestTC4@62043840]" name="tc4" duration-ms="76" started-at="2020-08-08T00:05:58Z" finished-at="2020-08-08T00:05:58Z">
+        <test-method status="PASS" signature="tc4()[pri:0, instance:org.testing.TestScripts.PutRequestTC4@2c6a3f77]" name="tc4" duration-ms="80" started-at="2020-08-08T15:23:20Z" finished-at="2020-08-08T15:23:20Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tc4 -->
       </class> <!-- org.testing.TestScripts.PutRequestTC4 -->
+      <class name="org.testing.TestScripts.GetRequestTC">
+        <test-method status="PASS" signature="tc2()[pri:0, instance:org.testing.TestScripts.GetRequestTC@180bc464]" name="tc2" duration-ms="159" started-at="2020-08-08T15:23:20Z" finished-at="2020-08-08T15:23:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- org.testing.TestScripts.GetRequestTC -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>

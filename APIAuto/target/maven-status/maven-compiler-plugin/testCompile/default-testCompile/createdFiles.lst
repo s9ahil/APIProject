@@ -1,0 +1,13 @@
+org\testing\utilities\PropertiesFileLoad.class
+org\testing\TestSteps\HTTPMethods.class
+org\testing\ResponseValidation\ResponseStatusCodeValidate.class
+org\testing\TestScripts\PutRequestTC4.class
+org\testing\TestScripts\DeleteRequestTC.class
+org\testing\utilities\ResponseExtractionUsingJsonPath.class
+org\testing\ResponseValidation\ResponseDataValidation.class
+org\testing\TestScripts\GetRequestWithQueryparameter.class
+org\testing\runner\RunnerClass.class
+org\testing\utilities\JsonVariableReplacement.class
+org\testing\TestScripts\GetRequestTC.class
+org\testing\utilities\JsonFileRead.class
+org\testing\TestScripts\PostRequestTC.class
